@@ -1,0 +1,54 @@
+body {
+    color: rgb(4, 8, 37);
+    background: linear-gradient(90deg, rgb(131, 139, 163), rgb(117, 155, 226));
+    font-family:sans-serif;
+    max-width: 900px;
+    min-width: 300px;
+    width: 80vw;
+    margin: 1rem auto;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.default {
+    margin: 1rem auto;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.visited-link {
+    margin: 1rem auto;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+footer {
+    font-size: 0.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+fieldset {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-width: 0.5px;
+    border-color:black;
+}
+
+hr {
+    border-color: black;
+    background-color:black;
+    height: 5px;
+}
+
+a {
+    color:black;
+}
+
+a:visited {
+    color: black;
+}
+
+.link, .back-to {
+    text-decoration: none;
+}
